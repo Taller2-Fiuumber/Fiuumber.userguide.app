@@ -152,42 +152,48 @@ Al presionar la opción “My balance”, se puede observar el saldo actual del 
 ## 3.Uso de la aplicación de conductores
 
 La pantalla Home muestra el mapa y pone en espera de un pasajero. Además, en la parte superior izquierda de la pantalla presenta un menú con más opciones (tres rayas).
+	
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
 
 ### Nuevo viaje
 
 Finalizada la espera, un modal con un nuevo posible viaje aparece en pantalla, y con el mismo  llega una notificación. El mismo indica el precio y nombre del pasajero que quiere viajar, dando la opción de tomar el viaje o darlo de baja y quedar en espera de otro. 
 
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
 Una vez aceptado, se indicando el camino hacia el punto de encuentro con el pasajero, comunicando el destino y dando la opción de cancelarlo. 
 
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
 El botón “I Arrived!” notifica al pasajero que el chofer ha llegado a buscarlo. Ya en el punto de encuentro, el botón da la opción de inicio de viaje.
 
-
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
 Luego, se traza el camino de origen a destino.
 
 
-
-
-
-
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
 
 
 ### Más opciones
 Estas opciones permiten la visualización de nuestro perfil, el historial de nuestros viajes, y nuestras transacciones como chofer. Por último, da la opción de cerrar sesión.
 	
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+	
 #### Visualización del perfil propio
 Al presionar la opción “My Profile”, se redirige al chofer a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
 
-
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+	
 También da la opción de modificar los datos y cambiar la contraseña.
 
 #### Visualización del historial de viajes
 Al presionar la opción “My trips”, se redirige al chofer a la pantalla con un listado de sus viajes:
 
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+		
 El mismo presenta el número de identificación de los pasajeros llevados, junto al nuestro. Además muestra los puntos de origen y destino de cada viaje, el horario, status y precio final.
 
 
@@ -195,5 +201,5 @@ El mismo presenta el número de identificación de los pasajeros llevados, junto
 
 Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
 	
-
+<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
 
