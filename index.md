@@ -66,50 +66,50 @@ Una vez ingresado en la aplicación, el pasajero podrá observar la pantalla de 
 
 En la pantalla Home se encuentra un drop up menu con la opción de ingresar origen y destino de nuestro viaje.}
 
-<img src="images/pasted image 0 (2).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (2).png" alt="drawing" width="200"/>
  
 
 
 
 Al ingresar los datos de nuestro viaje, Fiuumber calcula la tarifa en función de múltiples variables como el horario, la distancia, la duración y datos del pasajero y el conductor. 
 
-<img src="images/pasted image 0 (3).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (3).png" alt="drawing" width="200"/>
 
 Ya calculada la tarifa, con el botón “Get your Fiuumber!” damos inicio a la espera por un chofer. En esta instancia tenemos la opción de cancelar el viaje pedido, en caso de arrepentirse o que la espera sea excesiva.
 
-<img src="images/pasted image 0 (4).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (4).png" alt="drawing" width="200"/>
 
-<img src="images/pasted image 0 (5).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (5).png" alt="drawing" width="200"/>
 
 
 Finalizada la espera, llega una notificación dando aviso de que nuestro conductor se encuentra en camino hacia la ubicación indicada como punto de origen de viaje. En pantalla se indican los datos del chofer asignado y de su vehículo, junto a su puntaje en la aplicación y cantidad de viajes realizados.
 
 
-<img src="images/pasted image 0 (6).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (6).png" alt="drawing" width="200"/>
 
-<img src="images/pasted image 0 (7).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (7).png" alt="drawing" width="200"/>
 
 En pantalla figuran el camino a realizarse, y la ubicación actual del chofer (punto verde) en camino a buscar al pasajero.
 
-<img src="images/pasted image 0 (8).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (8).png" alt="drawing" width="200"/>
 
 Una vez que llega el chofer, notifica a través de un modal que el pasajero debe apresurarse para arrancar el viaje.
 
-<img src="images/pasted image 0 (9).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (9).png" alt="drawing" width="200"/>
 
-<img src="images/pasted image 0 (10).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (10).png" alt="drawing" width="200"/>
 
-<img src="images/pasted image 0 (11).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (11).png" alt="drawing" width="200"/>
 
 A lo largo del viaje se actualiza la ubicación hasta llegar a destino.
 
-<img src="images/pasted image 0 (12).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (12).png" alt="drawing" width="200"/>
 
 Finalizado el viaje, aparece un modal en pantalla dando la posibilidad de puntuar al chofer y escribir una nota al mismo. Además da la opción de reportarlo en caso de insatisfacción con su servicio.
 
-<img src="images/pasted image 0 (13).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (13).png" alt="drawing" width="200"/>
 
-<img src="images/pasted image 0 (14).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (14).png" alt="drawing" width="200"/>
 
 
 
