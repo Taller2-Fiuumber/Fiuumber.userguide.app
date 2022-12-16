@@ -180,19 +180,19 @@ Luego, se traza el camino de origen a destino.
 ### Más opciones
 Estas opciones permiten la visualización de nuestro perfil, el historial de nuestros viajes, y nuestras transacciones como chofer. Por último, da la opción de cerrar sesión.
 	
-<p align="center"><img src="images/pasted image 0 (26).png" alt="drawing" width="200"/>
+<p align="center"><img src="images/masinfo.jpeg" alt="drawing" width="200"/>
 	
 #### Visualización del perfil propio
 Al presionar la opción “My Profile”, se redirige al chofer a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
 
-<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/perfilpropiodriver.jpeg" alt="drawing" width="200"/>
 	
 También da la opción de modificar los datos y cambiar la contraseña.
 
 #### Visualización del historial de viajes
 Al presionar la opción “My trips”, se redirige al chofer a la pantalla con un listado de sus viajes:
 
-<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/mytrips.jpeg" alt="drawing" width="200"/>
 		
 El mismo presenta el número de identificación de los pasajeros llevados, junto al nuestro. Además muestra los puntos de origen y destino de cada viaje, el horario, status y precio final.
 
@@ -201,5 +201,5 @@ El mismo presenta el número de identificación de los pasajeros llevados, junto
 
 Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
 	
-<p align="center"><img src="images/init1.jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/mybalance.jpeg" alt="drawing" width="200"/>
 
