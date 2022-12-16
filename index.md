@@ -59,7 +59,7 @@ En el caso de que los datos ingresados correspondan a la cuenta de un pasajero, 
 
 Una vez ingresado en la aplicación, el pasajero podrá observar la pantalla de Home, con un mapa con la ubicación actual y un botón para refrescar la pantalla en búsqueda de choferes. En la parte superior izquierda de la pantalla presenta un menú con más opciones (tres rayas).
 
-<img src="images/pasted image 0 (1).jpeg" alt="drawing" width="200"/>
+<img src="images/pasted image 0 (1).png" alt="drawing" width="200"/>
 
 
 ### Nuevo viaje
