@@ -6,7 +6,7 @@ Al abrir la aplicación por primera vez se observa la pantalla inicial, con un b
 
 Al presionar el botón, se redirecciona a la pantalla de Inicio de Sesión y Registro. En esta pantalla se muestran dos botones: “Sign In” para ingresar en una cuenta ya existente (sea de pasajero o de conductor), y “Sign Up” para crear una nueva cuenta.
 
-<img src="images/Pantalla login_signup (1).jpeg" alt="drawing" width="200"/>
+<img src="images/Pantalla login_signup.jpeg" alt="drawing" width="200"/>
 
 ### Registro
 Al presionar el botón de “Sign Up”, se redirige a la primera pantalla de carga de los datos del nuevo usuario. En ella, se pueden observar diferentes opciones de creación de cuenta: manualmente o con Google. 
