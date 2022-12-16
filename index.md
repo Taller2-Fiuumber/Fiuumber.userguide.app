@@ -11,7 +11,7 @@ Al presionar el botón, se redirecciona a la pantalla de Inicio de Sesión y Reg
 ### Registro
 Al presionar el botón de “Sign Up”, se redirige a la primera pantalla de carga de los datos del nuevo usuario. En ella, se pueden observar diferentes opciones de creación de cuenta: manualmente o con Google. 
 
-<img src="images/Singup (1).png" alt="drawing" width="200"/>
+<img src="images/Singup.jpg" alt="drawing" width="200"/>
 
 
 #### Carga de datos del usuario
