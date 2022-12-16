@@ -1,5 +1,5 @@
 # Guía de usuario para la aplicación Fiuumber
-## Inicio de la aplicación
+## 1.Inicio de la aplicación
 Al abrir la aplicación por primera vez se observa la pantalla inicial, con un botón “Let’s Go”.  
 
 <img src="init.jpg" alt="drawing" width="200"/>
@@ -32,23 +32,23 @@ En caso de haberse seleccionado la opción “I’m a passenger”, se redirige 
 
 
 
-	Una vez mostrada la pantalla de confirmación de éxito en la creación de la cuenta, se puede presionar el botón “Continue” para redirigir al usuario a iniciar sesión en su nueva cuenta y empezar a usar la aplicación.
+Una vez mostrada la pantalla de confirmación de éxito en la creación de la cuenta, se puede presionar el botón “Continue” para redirigir al usuario a iniciar sesión en su nueva cuenta y empezar a usar la aplicación.
 
-	1.2 Inicio de sesión
-	Para iniciar sesión, un usuario puede ingresar con su correo electrónico o contraseña y presionar el botón “Log In”, o ingresar sus datos con Google (en el caso de que su cuenta haya sido creada de esa forma). Si alguno de los datos es ingresado incorrectamente, se mostrará un mensaje de error y no dejará al usuario iniciar sesión en la aplicación.
-
-
+## Inicio de sesión
+Para iniciar sesión, un usuario puede ingresar con su correo electrónico o contraseña y presionar el botón “Log In”, o ingresar sus datos con Google (en el caso de que su cuenta haya sido creada de esa forma). Si alguno de los datos es ingresado incorrectamente, se mostrará un mensaje de error y no dejará al usuario iniciar sesión en la aplicación.
 
 
-	En el caso de que los datos ingresados correspondan a la cuenta de un pasajero, se redirigirá al usuario a la pantalla de Home para pasajeros. En caso contrario, se redirigirá al usuario a la pantalla de Home para conductores. 
 
 
-Uso de la aplicación de pasajeros
+En el caso de que los datos ingresados correspondan a la cuenta de un pasajero, se redirigirá al usuario a la pantalla de Home para pasajeros. En caso contrario, se redirigirá al usuario a la pantalla de Home para conductores. 
+
+
+## 2.Uso de la aplicación de pasajeros
 
 Una vez ingresado en la aplicación, el pasajero podrá observar la pantalla de Home, con un mapa con la ubicación actual y un botón para refrescar la pantalla en búsqueda de choferes. En la parte superior izquierda de la pantalla presenta un menú con más opciones (tres rayas).
 
 
-2.1 Nuevo viaje
+### Nuevo viaje
 
 En la pantalla Home se encuentra un drop up menu con la opción de ingresar origen y destino de nuestro viaje.
  
@@ -81,34 +81,34 @@ Finalizado el viaje, aparece un modal en pantalla dando la posibilidad de puntua
 
 
 
-2.2 Más opciones para el pasajero
+### Más opciones para el pasajero
 Estas opciones permiten la visualización de nuestro perfil, el historial de nuestros viajes, y nuestras transacciones como pasajero. Por último, da la opción de cerrar sesión.
 
 	
-	2.2.1 Visualización del perfil propio
-	Al presionar la opción “My Profile”, se redirige al pasajero a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
+#### Visualización del perfil propio
+Al presionar la opción “My Profile”, se redirige al pasajero a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
 
 
 También da la opción de modificar los datos y cambiar la contraseña.
 
-	2.2.2 Visualización del historial de viajes
-	Al presionar la opción “My trips”, se redirige al pasajero a la pantalla con un listado de sus viajes:
+#### Visualización del historial de viajes
+Al presionar la opción “My trips”, se redirige al pasajero a la pantalla con un listado de sus viajes:
 
 El mismo presenta el número de identificación de los pasajeros llevados, junto al nuestro. Además muestra los puntos de origen y destino de cada viaje, el horario, status y precio final.
 
 
-	2.2.3 Visualización y manejo de transacciones 
+#### Visualización y manejo de transacciones 
 
-	Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
+Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
 
 
 
-Uso de la aplicación de conductores
+## 3.Uso de la aplicación de conductores
 
 La pantalla Home muestra el mapa y pone en espera de un pasajero. Además, en la parte superior izquierda de la pantalla presenta un menú con más opciones (tres rayas).
 
 
-	3.1 Nuevo viaje
+### Nuevo viaje
 
 Finalizada la espera, un modal con un nuevo posible viaje aparece en pantalla, y con el mismo  llega una notificación. El mismo indica el precio y nombre del pasajero que quiere viajar, dando la opción de tomar el viaje o darlo de baja y quedar en espera de otro. 
 
@@ -130,26 +130,25 @@ Luego, se traza el camino de origen a destino.
 
 
 
-	3.2 Más opciones
+### Más opciones
 Estas opciones permiten la visualización de nuestro perfil, el historial de nuestros viajes, y nuestras transacciones como chofer. Por último, da la opción de cerrar sesión.
 	
-	3.2.1 Visualización del perfil propio
-	Al presionar la opción “My Profile”, se redirige al chofer a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
+#### Visualización del perfil propio
+Al presionar la opción “My Profile”, se redirige al chofer a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
 
 
 También da la opción de modificar los datos y cambiar la contraseña.
 
-	3.2.2 Visualización del historial de viajes
-	Al presionar la opción “My trips”, se redirige al chofer a la pantalla con un listado de sus viajes:
+#### Visualización del historial de viajes
+Al presionar la opción “My trips”, se redirige al chofer a la pantalla con un listado de sus viajes:
 
 El mismo presenta el número de identificación de los pasajeros llevados, junto al nuestro. Además muestra los puntos de origen y destino de cada viaje, el horario, status y precio final.
 
 
-	3.2.3 Visualización y manejo de transacciones 
+#### Visualización y manejo de transacciones 
 
-	Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
+Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
 	
 
 
-Uso de la aplicación de pasajeros
 
