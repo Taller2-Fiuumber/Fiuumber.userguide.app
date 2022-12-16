@@ -1,5 +1,5 @@
 # Guía de usuario para la aplicación Fiuumber
-## 1.Inicio de la aplicación
+## Inicio de la aplicación
 Al abrir la aplicación por primera vez se observa la pantalla inicial, con un botón “Let’s Go”.  
 
 <img src="init.jpg" alt="drawing" width="200"/>
@@ -7,11 +7,11 @@ Al abrir la aplicación por primera vez se observa la pantalla inicial, con un b
 
 Al presionar el botón, se redirecciona a la pantalla de Inicio de Sesión y Registro. En esta pantalla se muestran dos botones: “Sign In” para ingresar en una cuenta ya existente (sea de pasajero o de conductor), y “Sign Up” para crear una nueva cuenta.
 
-### 1.1 Registro
+### Registro
 Al presionar el botón de “Sign Up”, se redirige a la primera pantalla de carga de los datos del nuevo usuario. En ella, se pueden observar diferentes opciones de creación de cuenta: manualmente o con Google. 
 
 
-1.1.1 Carga de datos del usuario
+#### Carga de datos del usuario
 
 Para registrarse manualmente, se deben llenar los campos que aparecen en pantalla: nombre, apellido, correo electrónico, contraseña y nuevamente la contraseña. Posteriormente, se debe presionar el botón “Next” para continuar con el registro. 
 Para cargar los datos del usuario a través de Google, se debe presionar el botón “Sign up with Google”.
@@ -19,7 +19,7 @@ Para cargar los datos del usuario a través de Google, se debe presionar el bot�
 
 
 
-1.1.2 Selección de rol
+#### Selección de rol
 
 Sin importar que los datos principales del nuevo usuario hayan sido cargados manualmente o a través de Google, una vez cargados se continúa a la pantalla de selección de rol. En esta, podemos observar dos botones con dos opciones: “I’m a passenger” o “I’m a driver”. En caso de que la persona que está registrándose quiera que su rol en Fiuumber sea el de pasajero, deberá apretar el primer botón. En caso de que desee ser un conductor, deberá apretar el segundo botón. 
 
