@@ -120,23 +120,24 @@ Finalizado el viaje, aparece un modal en pantalla dando la posibilidad de puntua
 Estas opciones permiten la visualización de nuestro perfil, el historial de nuestros viajes, y nuestras transacciones como pasajero. Por último, da la opción de cerrar sesión.
 
 
-<p align="center"><img src="images/pasted image 0 (15).jpeg" alt="drawing" width="200"/>
+<p align="center">
+<img src="images/pasted image 0 (15).png" alt="drawing" width="200"/>
 
 	
 #### Visualización del perfil propio
 Al presionar la opción “My Profile”, se redirige al pasajero a la pantalla de su propio perfil. En ésta, puede observar toda su información: 
 
-<p align="center"><img src="images/pasted image 0 (16).jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/pasted image 0 (16).png" alt="drawing" width="200"/>
 
-<p align="center"><img src="images/pasted image 0 (17).jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/pasted image 0 (17).png" alt="drawing" width="200"/>
 
 También da la opción de modificar los datos y cambiar la contraseña.
 
 #### Visualización del historial de viajes
 Al presionar la opción “My trips”, se redirige al pasajero a la pantalla con un listado de sus viajes:
 
-<p align="center"><img src="images/pasted image 0 (18).jpeg" alt="drawing" width="200"/>
-<p align="center"><img src="images/pasted image 0 (19).jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/pasted image 0 (18).png" alt="drawing" width="200"/>
+<p align="center"><img src="images/pasted image 0 (19).png" alt="drawing" width="200"/>
 
 El mismo presenta el número de identificación de los pasajeros llevados, junto al nuestro. Además muestra los puntos de origen y destino de cada viaje, el horario, status y precio final.
 
@@ -145,7 +146,7 @@ El mismo presenta el número de identificación de los pasajeros llevados, junto
 
 Al presionar la opción “My balance”, se puede observar el saldo actual del usuario logueado junto a sus transacciones. Además, puede depositar y extraer dinero.
 
-<p align="center"><img src="images/pasted image 0 (20).jpeg" alt="drawing" width="200"/>
+<p align="center"><img src="images/pasted image 0 (20).png" alt="drawing" width="200"/>
 
 
 ## 3.Uso de la aplicación de conductores
